@@ -1,0 +1,60 @@
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2fbe0; /* Fundo rosa suave */
+  color: #333; /* Texto preto */
+}
+
+/* Cabeçalho */
+header {
+  background-color: #FF69B4; /* Cor de fundo rosa */
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+/* Navegação */
+nav {
+  background-color: #FF1493; /* Cor rosa escuro */
+  text-align: center;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+/* Conteúdo principal */
+.container {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Seções */
+.section {
+  margin-bottom: 2rem;
+}
+
+.section h2 {
+  color: #FF1493; /* Título rosa escuro */
+  margin-bottom: 1rem;
+}
+
+.section p {
+  line-height: 1.6;
+}
+
+/* Rodapé */
+footer {
+  background-color: #FF69B4; /* Cor de fundo rosa */
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}

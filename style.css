@@ -1,15 +1,14 @@
-/* Estilo geral */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f2fbe0; /* Fundo rosa suave */
-  color: #333; /* Texto preto */
+  background-color: #000000; /* Fundo preto */
+  color: #32CD32; /* Texto verde */
 }
 
 /* Cabeçalho */
 header {
-  background-color: #FF69B4; /* Cor de fundo rosa */
+  background-color: #228B22; /* Cor de fundo verde escuro */
   color: white;
   padding: 2rem 1rem;
   text-align: center;
@@ -17,7 +16,7 @@ header {
 
 /* Navegação */
 nav {
-  background-color: #FF1493; /* Cor rosa escuro */
+  background-color: #006400; /* Cor verde escuro */
   text-align: center;
   padding: 1rem;
 }
@@ -42,7 +41,7 @@ nav a {
 }
 
 .section h2 {
-  color: #FF1493; /* Título rosa escuro */
+  color: #32CD32; /* Título verde claro */
   margin-bottom: 1rem;
 }
 
@@ -52,7 +51,7 @@ nav a {
 
 /* Rodapé */
 footer {
-  background-color: #FF69B4; /* Cor de fundo rosa */
+  background-color: #228B22; /* Cor de fundo verde escuro */
   color: white;
   text-align: center;
   padding: 1rem;
